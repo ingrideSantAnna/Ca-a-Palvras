@@ -1,0 +1,36 @@
+body{
+    font-size: 25px;
+    align-items: center;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+table {
+    background-color: rgb(184, 178, 178);
+    border-collapse: collapse;
+}
+
+td {
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+td.selected {
+        background-color: #721996;
+        border-collapse: collapse;
+        border-radius: 50px;
+}
+    
+p{
+    color: #ffffff;
+    font-size: 28px;
+    font-family: serif;
+}
+
+
+
+
+
+   
